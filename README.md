@@ -53,7 +53,7 @@ To build the RAM, I need to build the following gates:
 
 Note: the gates are built given a built-in data flip-flop gate (DFF).
 
-See: [03a](03a) for the building blocks, and [03b](03b) for the RAM.
+See: [03/a](0/3a) for the building blocks, and [03/b](03/b) for the RAM.
 
 ---
 
