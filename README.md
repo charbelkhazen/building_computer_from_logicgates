@@ -9,3 +9,4 @@ And I am using the book CODE by charles Petzold as a reference and a guide.
 step1:
 Given a Nand gate, I built Not, And, Or, Xor, Mux, DMux, Not16, And16, Or16, Mux16, Or8Way, Mux4Way16, Mux8Way16, DMux4Way, DMux8Way gates. 
 see : 
+[01](01)
