@@ -27,7 +27,7 @@ See: [01](01)
 
 ---
 
-## Step 2: Building Arithmetic Logic Unit (ALU)
+## Step 2: Building the Arithmetic Logic Unit (ALU)
 The goal is to build a CPU. I must first build an essential component of the CPU, the Arithmetic Logic Unit (ALU). I will do this by building the following gates:
 - HalfAdder
 - FullAdder
@@ -40,7 +40,7 @@ See: [02](02)
 
 ---
 
-## Step 3: Building RAM
+## Step 3: Building the RAM
 To build the RAM, I need to build the following gates:
 - Bit (a 1-bit register)
 - Register
