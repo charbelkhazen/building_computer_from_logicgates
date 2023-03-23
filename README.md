@@ -1,6 +1,6 @@
 # Building Computer from Logic Gates
 
-## Introduction
+## The project
 I am building a 16-bit computer from logic gates, specifically NAND gates, as part of a course called Nand to Tetris. I am using the book CODE by Charles Petzold as a reference and a guide. I coded the gates using HDL and ran them on a hardware simulator program that executes HDL files.
 
 ---
